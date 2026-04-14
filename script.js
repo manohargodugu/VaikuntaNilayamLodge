@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const data = new URLSearchParams(formData);
 
             // URL for your Google Apps Script Web App
-            const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxdh8ITTSCcJaKTZVRUNUDE9_1bz8KYmwYwZ_JhA-tOzj_Zj-pfyu07lHbjCWW0J_nqpg/exec";
+            const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwVj_aorbEI6A0vGG-KaG6MN7iFrXZEruKM5aCuQzh0MOxGAzGyyYEv-Ne7NbIDs7WY0w/exec";
 
 
             fetch(GOOGLE_SCRIPT_URL, {
